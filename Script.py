@@ -8,7 +8,8 @@ class script(object):
     
 ✏️ I Am A Advance File Stream Bot With Multiple Player Support And Url Shortner. Best Ui Performance.
 
-Now Send Me A Media To See Magic ✨</b>"""
+Now Send Me A Media To See Magic 
+COMPULSORY JOIN UPDATE CHANNEL TO USE ME ✨</b>"""
 
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
