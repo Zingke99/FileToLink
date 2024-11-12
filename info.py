@@ -31,6 +31,6 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Koi:Lok@cluster0.bt8r7
 DATABASE_NAME = environ.get('DATABASE_NAME', "techvjautobot")
 
 # Shortlink Info
-SHORTLINK = bool(environ.get('SHORTLINK', True)) # Set True Or False
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '8301f59c23e9a123e44c99869346c719b031810a')
+SHORTLINK = bool(environ.get('SHORTLINK', False)) # Set True Or False
+SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
+SHORTLINK_API = environ.get('SHORTLINK_API', '')
